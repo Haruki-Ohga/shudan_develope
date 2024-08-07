@@ -1,7 +1,7 @@
 # 集団開発練習
 
 長町・赤堀
-直接push!push!
+直接push!push!push!
 
 こんにちは
 hello
