@@ -1,6 +1,7 @@
 # 集団開発練習
 
 長町・赤堀
+直接push!
 
 こんにちは
 hello
@@ -8,3 +9,4 @@ hello
 good morning
 こんばんは
 good evening
+
