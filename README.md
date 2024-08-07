@@ -2,6 +2,7 @@
 
 長町・赤堀
 直接push!push!push!
+require pullっぽい
 
 こんにちは
 hello
