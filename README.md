@@ -3,6 +3,7 @@
 長町・赤堀
 直接push!push!push!
 require pullっぽい
+0の場合は、自分だけでOK?
 
 こんにちは
 hello
