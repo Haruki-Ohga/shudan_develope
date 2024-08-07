@@ -8,3 +8,6 @@ hello
 good morning
 こんばんは
 good evening
+
+
+アサインの後メールを確認して下さい
